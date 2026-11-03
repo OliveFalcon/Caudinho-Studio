@@ -1,0 +1,21 @@
+========================================================================================================================================================================= LICENÇA GERAL DO REPOSITÓRIO / GENERAL REPOSITORY LICENSE
+=========================================================================================================================================================================
+
+[Português]
+Este repositório é um monorepo que contém múltiplos projetos, jogos e executáveis independentes. 
+
+Por favor, note que NÃO existe uma licença única aplicável a todo o conteúdo deste repositório. Cada subpasta/projeto possui seu próprio arquivo de licença específico (LICENSE) contido em seu respectivo diretório.
+
+Ao acessar, baixar ou interagir com qualquer projeto neste repositório, você concorda em cumprir os termos e condições especificados no arquivo de licença individual daquele respectivo projeto. Na ausência de um arquivo de licença em uma subpasta específica, aplicam-se as regras de "Todos os Direitos Reservados" (All Rights Reserved) aos criadores desses projetos.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[English]
+This repository is a monorepo containing multiple independent projects, games, and executables.
+
+Please note that there is NO single license applicable to all content within this repository. Each subfolder/project holds its own specific license file (LICENSE) located inside its respective directory.
+
+By accessing, downloading, or interacting with any project in this repository, you agree to comply with the terms and conditions specified in the individual license file of that respective project. In the absence of a license file in a specific subfolder, "All Rights Reserved" rules apply to the creators of these projects.
+
+=========================================================================================================================================================================Copyright (c) 2026 Caudinho Studio
+=========================================================================================================================================================================
