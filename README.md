@@ -1,2 +1,2 @@
 # Caudinho-Studio
-🎮 Jogos desenvolvidos pela Caudinho Studio. Prepara o caldo! Todos os direitos reservados.
+🎮 Jogo desenvolvido pela Caudinho Studio. Prepara o caldo! Todos os direitos reservados.
